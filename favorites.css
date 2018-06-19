@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+/* favorites */
+body {background-color: #ECDEFF;color: indigo;}
+	h1 {background-color: #F1E6FF;}	
+	h2 {background-color: #F1E6FF;}
+#wrapper {width: 80%;
+min-width: 700px;
+max-width: 1024px;
+margin-right: auto;
+margin-left: auto;
+background-color: #ECDEFF;
+box-shadow: 3px 3px 3px #F1E6FF}
+img {border-color: #F3EAFF; border-style: groove; border-width: 8px}
+
+nav a { text-decoration: none}
+nav a:link {color: indigo}
+nav a:visited {color: darkorchid}
+nav a:hover {color: mediumslateblue}
+nav ul { list-style-type: none;
+margin: 0; 
+padding-left: 0;}

@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+/* homepage */
+body {background-color: #DEF1FF;color: darkslateblue;}
+	h1 {background-color: #EEF8FF;}	
+	h2 {background-color: #EEF8FF;}
+#wrapper {width: 80%;
+min-width: 700px;
+max-width: 1024px;
+margin-right: auto;
+margin-left: auto;
+background-color: #DEF1FF;
+box-shadow: 3px 3px 3px #EEF8FF}
+img {border-color: #F4FBFF; border-style: solid; border-width: 8px}
+
+nav a { text-decoration: none}
+nav a:link {color: darkslateblue}
+nav a:visited {color: indigo}
+nav a:hover {color: mediumslateblue}
+nav ul { list-style-type: none;
+margin: 0; 
+padding-left: 0;}

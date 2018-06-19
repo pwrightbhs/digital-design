@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+/* illustrator */
+body {background-color: #E4DEFF;color: indigo;}
+	h1 {background-color: #EBE6FF;}	
+	h2 {background-color: #EBE6FF;}
+#wrapper {width: 80%;
+min-width: 700px;
+max-width: 1024px;
+margin-right: auto;
+margin-left: auto;
+background-color: #E4DEFF;
+box-shadow: 3px 3px 3px #EBE6FF}
+img {border-color: #F2EFFF; border-style: double; border-width: 8px}
+
+nav a { text-decoration: none}
+nav a:link {color: indigo}
+nav a:visited {color: darkorchid}
+nav a:hover {color: mediumslateblue}
+nav ul { list-style-type: none;
+margin: 0; 
+padding-left: 0;}

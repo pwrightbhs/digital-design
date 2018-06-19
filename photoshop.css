@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+/* photoshop */
+body {background-color: #DEE9FF;color: darkslateblue;}
+	h1 {background-color: #E6EEFF;}	
+	h2 {background-color: #E6EEFF;}
+#wrapper {width: 80%;
+min-width: 700px;
+max-width: 1024px;
+margin-right: auto;
+margin-left: auto;
+background-color: #DEE9FF;
+box-shadow: 3px 3px 3px #E6EEFF}
+img {border-color: #EFF4FF; border-style: dotted; border-width: 8px}
+
+nav a { text-decoration: none}
+nav a:link {color: darkslateblue}
+nav a:visited {color: indigo}
+nav a:hover {color: mediumslateblue}
+nav ul { list-style-type: none;
+margin: 0; 
+padding-left: 0;}

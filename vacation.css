@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+/* dream vacation */
+body {background-color: #FFDEF1;color: darkorchid;}
+	h1 {background-color: #FFE6F4;}	
+	h2 {background-color: #FFE6F4;}
+#wrapper {width: 80%;
+min-width: 700px;
+max-width: 1024px;
+margin-right: auto;
+margin-left: auto;
+background-color: #FFDEF1;
+box-shadow: 3px 3px 3px #FFE6F4}
+img {border-color: #FFEAF6; border-style: outset; border-width: 8px}
+
+nav a { text-decoration: none}
+nav a:link {color: darkorchid}
+nav a:visited {color: indigo}
+nav a:hover {color: mediumslateblue}
+nav ul { list-style-type: none;
+margin: 0; 
+padding-left: 0;}

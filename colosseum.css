@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+/* Colosseum */
+
+body {background-color: mediumaquamarine; color: black;font-family: Baskerville, Palatino Linotype, Palatino, Century Schoolbook L, Times New Roman, serif}
+p {font-size: 1em; text-align:left; font-weight: bold}	
+h1 {background-color: #C6ECDF;}	
+	h2 {background-color: #C6ECDF;}
+#wrapper {width: 80%;
+min-width: 700px;
+max-width: 1024px;
+margin-right: auto;
+margin-left: auto;
+background-color: mediumaquamarine;
+box-shadow: 3px 3px 3px #D1FFF4}
+img {border-color: #E1FFF8; border-style: none; border-width: 8px}
+
+nav a {text-decoration: none;}
+nav a:link {color: darkslateblue}
+nav a:visited {color: rebeccapurple}
+nav a:hover {color: navy}
